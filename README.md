@@ -1,13 +1,13 @@
 # Booking Lifecycle Management System
 
-## 📌 Overview
+##  Overview
 This project implements a **Booking Lifecycle Management System** that handles the complete journey of a booking — from creation to completion — with proper state transitions, failure handling, and admin intervention.
 
 It is designed to demonstrate backend logic, state management, and simple UI workflows.
 
 ---
 
-## 🎯 Features
+##  Features
 
 ### 1. Booking Creation
 - Create a new booking with basic details
@@ -42,14 +42,14 @@ The booking moves through the following states:
 
 ---
 
-## 🖥️ UI Screens
+##  UI Screens
 - Create Booking Screen
 - View / Update Booking Status
 - Admin / Ops Panel
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Frontend: (React / HTML / CSS / JS)  
 - Backend: (Node.js / Python / REST APIs)  
 - Database: (MongoDB / SQL)  
@@ -59,7 +59,7 @@ The booking moves through the following states:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ```bash
 # Clone repository
