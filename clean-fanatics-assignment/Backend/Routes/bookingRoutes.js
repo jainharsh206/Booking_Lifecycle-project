@@ -35,7 +35,7 @@ router.post("/:id/reject", async (req, res) => {
     actionBy: "provider"
   });
 
-  // 🔥 THIS IS WHERE YOU CALL IT
+  //  THIS IS WHERE YOU CALL IT
   await retryAssignment(booking);
 
   res.json({
